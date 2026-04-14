@@ -2,6 +2,11 @@
 
 A simple productivity dashboard that helps users manage tasks and track daily productivity.
 
+## Live Demo
+
+Experience the project here:  
+https://merry-cobbler-4822fa.netlify.app/
+
 ## Features
 - Add tasks
 - Mark tasks as complete
